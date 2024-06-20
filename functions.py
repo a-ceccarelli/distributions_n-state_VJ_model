@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from scipy.linalg import null_space
 
 """
-This file functions.py contains the n-state model simulation function 'n_state_model'
+This file functions.py contains the n-state model simulation function 'n_state_ABM'
 
 It contains the up-to-one-switch approximation function 'approx_pdf_up_to_1_switch'
 which should work for any model network
